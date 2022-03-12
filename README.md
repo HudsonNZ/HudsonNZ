@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hudson Apolinario  @HudsonNZ, I'm a Brazilian guy living in New Zealand for the last 3 years.
+- 👋 Hi, I’m Hudson Apolinario  @HudsonNZ, I'm a Brazilian guy currently living in New Zealand.
 - 👀 I'm interested in learning to code seeking for changing my career.
 - 🌱  I’m currently learning Java at Alura Cursos Online
 - 💞️ I’m looking to collaborate on small projects to exercise my acquired knowledge so far.
